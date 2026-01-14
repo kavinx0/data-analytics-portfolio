@@ -19,7 +19,7 @@ This portfolio is designed to:
 
 ## 📁 Projects
 
-### 01. Customer Purchase & Retention Analysis
+### 01. Customer Purchase & Retention Analysis ([view project](./01_Customer_Analysis))
 Analysis of customer transaction data to understand revenue trends, repeat purchasing behaviour, and customer retention patterns.
 
 **Key focus areas:**
@@ -35,7 +35,7 @@ Analysis of customer transaction data to understand revenue trends, repeat purch
 
 ---
 
-### 02. Funnel & Cohort Analysis
+### 02. Funnel & Cohort Analysis ([view project](./02_Funnel_Cohort_Analysis))
 Analysis of user journeys and conversion funnels, including cohort-based retention analysis to understand behavioural patterns over time.
 
 **Key focus areas:**
@@ -50,7 +50,7 @@ Analysis of user journeys and conversion funnels, including cohort-based retenti
 
 ---
 
-### 03. Data Quality & Validation
+### 03. Data Quality & Validation ([view project](./03_Data_Quality_Validation))
 Exploration of data quality and validation techniques to identify inconsistencies, missing values, and anomalies in analytical datasets.
 
 **Key focus areas:**

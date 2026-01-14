@@ -4,7 +4,6 @@ This repository contains a collection of data analytics projects demonstrating p
 
 The projects focus on answering meaningful business questions, analysing trends and behaviour, and communicating insights clearly through structured analysis and documentation.
 
----
 
 ## 🎯 Portfolio Objectives
 
@@ -15,7 +14,6 @@ This portfolio is designed to:
 - Communicate insights clearly for technical and non-technical audiences
 - Build a strong foundation for entry-level data analytics roles
 
----
 
 ## 📁 Projects
 
@@ -77,7 +75,6 @@ Across the projects in this portfolio, the following skills are demonstrated:
 - Clear communication of insights and findings  
 - Structured documentation and reproducible analysis  
 
----
 
 ## 📂 Repository Structure
 
@@ -89,7 +86,6 @@ Each project folder follows a consistent structure:
 
 This structure reflects common industry practices and ensures clarity and reproducibility.
 
----
 
 ## 📌 Notes
 

@@ -17,7 +17,7 @@ This portfolio is designed to:
 
 ## 📁 Projects
 
-### 01. Customer Purchase & Retention Analysis ([view project](./01_Customer_Analysis)) (in progress)
+### 01. Customer Purchase & Retention Analysis ([view project](./01_Customer_Analysis)) 
 Analysis of customer transaction data to understand revenue trends, repeat purchasing behaviour, and customer retention patterns.
 
 **Key focus areas:**

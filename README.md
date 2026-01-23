@@ -33,7 +33,7 @@ Analysis of customer transaction data to understand revenue trends, repeat purch
 
 ---
 
-### 02. Funnel & Cohort Analysis ([view project](./02_Funnel_Cohort_Analysis)) (in progress)
+### 02. Funnel & Cohort Analysis (in progress)
 Analysis of user journeys and conversion funnels, including cohort-based retention analysis to understand behavioural patterns over time.
 
 **Key focus areas:**
@@ -48,7 +48,7 @@ Analysis of user journeys and conversion funnels, including cohort-based retenti
 
 ---
 
-### 03. Data Quality & Validation ([view project](./03_Data_Quality_Validation))
+### 03. Data Quality & Validation (in progress)
 Exploration of data quality and validation techniques to identify inconsistencies, missing values, and anomalies in analytical datasets.
 
 **Key focus areas:**
@@ -64,7 +64,7 @@ Exploration of data quality and validation techniques to identify inconsistencie
 
 ---
 
-### 04. Executive KPI & Revenue Performance Analysis
+### 04. Executive KPI & Revenue Performance Analysis (in progress)
 
 **Key Focus Areas**
 

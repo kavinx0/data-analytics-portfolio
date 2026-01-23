@@ -17,7 +17,7 @@ This portfolio is designed to:
 
 ## 📁 Projects
 
-### 01. Customer Purchase & Retention Analysis ([view project](./01_Customer_Analysis))
+### 01. Customer Purchase & Retention Analysis ([view project](./01_Customer_Analysis)) (in progress)
 Analysis of customer transaction data to understand revenue trends, repeat purchasing behaviour, and customer retention patterns.
 
 **Key focus areas:**
@@ -33,7 +33,7 @@ Analysis of customer transaction data to understand revenue trends, repeat purch
 
 ---
 
-### 02. Funnel & Cohort Analysis ([view project](./02_Funnel_Cohort_Analysis))
+### 02. Funnel & Cohort Analysis ([view project](./02_Funnel_Cohort_Analysis)) (in progress)
 Analysis of user journeys and conversion funnels, including cohort-based retention analysis to understand behavioural patterns over time.
 
 **Key focus areas:**
@@ -64,6 +64,26 @@ Exploration of data quality and validation techniques to identify inconsistencie
 
 ---
 
+### 04. Executive KPI & Revenue Performance Analysis
+
+**Key Focus Areas**
+
+- Executive-level revenue KPIs and performance metrics
+- Revenue trends and growth patterns over time
+- Revenue concentration and dependency analysis (e.g. top customers/products)
+- Repeat customer contribution and retention indicators
+- Identification of key business risks and opportunities
+- Clear, decision-oriented insights and recommendations
+
+**Tools & Technologies**
+- Python (Pandas, NumPy)
+- SQL (aggregations, grouping, KPI calculations)
+- Jupyter Notebook
+- Matplotlib (lightweight, explanatory visualisations)
+
+---
+
+
 ## 🛠 Core Skills Demonstrated
 
 Across the projects in this portfolio, the following skills are demonstrated:
@@ -92,3 +112,4 @@ This structure reflects common industry practices and ensures clarity and reprod
 - Projects are built incrementally and reflect ongoing learning and skill development.
 - Datasets used are either publicly available or representative of real-world analytical scenarios.
 - The emphasis is on correctness, clarity, and analytical reasoning rather than dashboard-heavy presentation.
+- Right now project 1 has been completed, 2 and 3 are partially completed but yet to commit and 4 is still underway
